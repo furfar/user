@@ -1,0 +1,15 @@
+*.class
+*target
+*bin
+*logs
+*.settings
+
+*.project
+*.classpath
+*config.properties
+*rebel.xml
+*DS_Store
+# Package Files #
+*.jar
+*.war
+*.ear
